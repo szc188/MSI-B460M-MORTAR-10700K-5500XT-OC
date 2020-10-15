@@ -132,15 +132,17 @@
 
 ### 特别提醒
 
-如果系统有些卡顿，比如键盘输入延迟、长按输入不流畅、浏览器缩放卡顿，可以Reset Nvram一下即可。
++ 如果系统有些卡顿，比如键盘输入延迟、长按输入不流畅、浏览器缩放卡顿，可以Reset Nvram一下即可。
+
++ 如果没有声音的话检查一下声音输出方式
+
+  ![image-20201015152814036](README.assets/image-20201015152814036.png)
 
 ### 鸣谢
 
 1. https://github.com/myqqiu/Hackintosh-B460M-MORTAR-i5-10500-iGPU-UHD630
 2. https://imacos.top/2020/08/16/1225/
 3. https://www.tonymacx86.com/threads/micro-atx-build-msi-mag-b460m-mortar-i5-10500-rx470-open-core-catalina-10-15-5.299709/#post-2157841
-
-+++++++++
 
 
 
