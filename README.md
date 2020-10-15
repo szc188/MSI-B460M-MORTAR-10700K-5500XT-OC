@@ -70,6 +70,8 @@
 
 系统偏好设置 -> 网络 -> 以太网（高级） -> 硬件 -> 配置:手动, 速度:100baseTX(千兆网络环境可选择1000baseT), 双工:全双工, MTU:标准1500
 
+![image-20201015151858881](README.assets/image-20201015151858881.png)
+
 ### 睡眠说明
 
 - BIOS默认关闭了USB唤醒，睡眠后需按电源键唤醒
@@ -137,6 +139,8 @@
 1. https://github.com/myqqiu/Hackintosh-B460M-MORTAR-i5-10500-iGPU-UHD630
 2. https://imacos.top/2020/08/16/1225/
 3. https://www.tonymacx86.com/threads/micro-atx-build-msi-mag-b460m-mortar-i5-10500-rx470-open-core-catalina-10-15-5.299709/#post-2157841
+
++++++++++
 
 
 
