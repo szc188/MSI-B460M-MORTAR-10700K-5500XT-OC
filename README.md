@@ -137,9 +137,23 @@
   Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
   ```
 
-### 设置默认启动项
+### 小贴士
+
+###### 设置默认启动项
 
 + 在启动选择界面，先选中要启动的项，然后按住键盘的 Ctrl + Enter (回车键) 进入系统，下次重启后默认就选中这个项了。
+
+###### 不显示启动菜单
+
++ 修改`config.plist`文件中的`ShowPicker`属性为`false`即可
+
+###### 修改启动延时
+
++ 修改`config.plist`文件中的`Timeout`属性，单位是秒
+
+###### 开启啰嗦模式
+
++ 修改`config.plist`文件，在`boot-args`中添加`-v keepsyms=1`
 
 ### 特别提醒
 
