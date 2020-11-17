@@ -13,7 +13,8 @@
 
 + BIOS版本：E7C82IMS.120
 + OpenCore版本：0.6.3
-+ MacOS版本：10.15.7 (19H2)
++ MacOS版本：10.15.7 (19H15)
++ 网友测试 @yongjiaPython MacOS Big Sur 正常工作
 
 ### 功能
 
