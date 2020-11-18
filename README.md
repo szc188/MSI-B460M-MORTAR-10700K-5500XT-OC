@@ -27,6 +27,11 @@
 
 ### 版本更新
 
+###### 2020.11.18
+
++ 添加了一个1080P的配置文件，使用1K屏的小伙伴就将`config-1080p.plist`改为`config.plist`
++ 默认的`config.plist`文件开启了hidpi
+
 ###### 2020.11.3
 
 + 将opencore更新到0.6.3
@@ -66,7 +71,7 @@
 
 ### BIOS设置
 
-关闭CFG锁、VT-D，根据@**[wanglelecc](https://github.com/wanglelecc)**提供的信息，还需要关闭 "MIS 快速启动" 选项
+关闭CFG锁、VT-D，根据@[wanglelecc](https://github.com/wanglelecc)提供的信息，还需要关闭 "MIS 快速启动" 选项
 
 ![MSI_SnapShot_01](README.assets/MSI_SnapShot_01.bmp)
 
