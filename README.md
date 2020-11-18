@@ -138,6 +138,16 @@
   Reg add HKLM\SYSTEM\CurrentControlSet\Control\TimeZoneInformation /v RealTimeIsUniversal /t REG_DWORD /d 1
   ```
 
+### 睡眠唤醒后可能导致的网速慢、网页打不开、Ping掉包、延时高、WiFi卡死等网络问题
+
++ 这个问题属于操作系统问题（实测在10.15.7下使用WiFi有概率出现，白苹果也会有这个问题），表现为长时间睡眠后唤醒网速很慢，必须重启后才能恢复正常，在命令行中输入`sudo killall airportd`可恢复正常。
+
+  <img src="README.assets/image-20201118095507812.png" alt="image-20201118095507812" style="zoom: 33%;" />
+
++ 尝试将网络中的位置的“自动”改为自己添加的值（没有测试）
+
++ 尝试把设置的安全性与隐私中的定位服务关掉（没有测试）
+
 ### 小贴士
 
 ###### 设置默认启动项
