@@ -1,3 +1,7 @@
+目前Github上有其他作者在维护同配置的OpenCore，这边先暂时不更新了，感谢大家的支持
+
+地址：https://github.com/myqqiu/Hackintosh-B460M-MORTAR-i5-10500-iGPU-UHD630
+
 ### 硬件配置
 
 + 主板：微星MAG B460M MORTAR 
